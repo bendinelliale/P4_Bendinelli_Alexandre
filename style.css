@@ -684,11 +684,6 @@ a {
 }
 
 
-.col-sm-12{
-    margin-left: 200px;
-}
-
-
 .container {
     max-width: 1000px;
 }
@@ -875,12 +870,12 @@ h4 {
 }
 
 .bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta\ made\ sign-min.webp");
+    background-image: url("img/atlanta_made_sign.jpg");
     
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta\ made\ sign\ orange-min.webp");
+    background-image: url("img/atlanta_orange.jpg");
 }
 
 @media (max-width: 1024px) {
